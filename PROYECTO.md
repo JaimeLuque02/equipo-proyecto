@@ -3,5 +3,5 @@
 Nombre del proyecto: por definir
 
 ## Miembros
-
+- Javier
 - Jaime
