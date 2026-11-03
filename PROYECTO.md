@@ -6,6 +6,7 @@ Nombre del proyecto: por definir
 
 - Ruben
 
+- Javier
 
 - Jaime
 
